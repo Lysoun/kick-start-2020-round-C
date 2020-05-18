@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../candies/candies.iml" filepath="$PROJECT_DIR$/../candies/candies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countdown.iml" filepath="$PROJECT_DIR$/countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../perfectSubarray/perfectSubarray.iml" filepath="$PROJECT_DIR$/../perfectSubarray/perfectSubarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stableWall/stableWall.iml" filepath="$PROJECT_DIR$/../stableWall/stableWall.iml" />
+    </modules>
+  </component>
+</project>
