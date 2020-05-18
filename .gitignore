@@ -1,2 +1,6 @@
 /.idea
 *.iml
+countdown/out
+candies/out
+perfectSubarray/out
+stableWall/out
